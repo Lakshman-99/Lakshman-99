@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [www.example.com](www.example.com)
+- 👨‍💻 All of my projects are available at my [portfolio](https://lakshman-portfolio.vercel.app/)
 
 - 💬 Ask me about **Full stack development and Machine learning**
 
 - 📫 How to reach me **slakshman664@gmail.com**
 
-- 📄 Know about my experiences [www.example.com](www.example.com)
+- 📄 Know about my experiences through my [portfolio](https://lakshman-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
