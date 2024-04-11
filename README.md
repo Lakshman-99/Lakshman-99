@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://lakshman-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://lakshman-io.vercel.app/)
 
 - 💬 Ask me about **Full stack development and Machine learning**
 
