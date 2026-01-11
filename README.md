@@ -1,39 +1,63 @@
-<h1 align="center">Hi 👋, I'm Lakshman</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Lakshman%20Siva&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Distributed%20Systems%20%7C%20MS%20@%20Northeastern&descAlignY=55&descAlign=50" alt="Lakshman Siva Header" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman-99&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman-99" /> </p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmansiva/) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshman.me)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siva.l@northeastern.edu)
 
-- 🔭 I’m currently working on [Snippet](https://github.com/Lakshman-99/CodeWars)
+</div>
 
-- 🌱 I’m currently learning **MERN Stack**
+---
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://lakshman-io.vercel.app/)
+### 🚀 About Me
+I am a **Software Engineer** focused on building scalable cloud-native systems and high-performance web architectures. Currently, I am a Master's student at **Northeastern University** and a **Software Engineer Co-op at Origin AI**, where I engineer asynchronous backend systems for reliability and scale.
 
-- 💬 Ask me about **Full stack development and Machine learning**
+Previously, I built enterprise SaaS products at **Zoho Corporation**, impacting over 1,000+ enterprise clients. My engineering philosophy prioritizes **system design, automation, and observability**.
 
-- 📫 How to reach me **slakshman664@gmail.com**
+---
 
-- 📄 Know about my experiences through my [portfolio](https://lakshman-portfolio.vercel.app/)
+### ⚡ Current Engineering Focus: [Code2Cloud](https://github.com/Lakshman-99/Code2Cloud)
+*Building a Vercel-like PaaS from scratch.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/lakshman-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lakshman-99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshman18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshman18" height="30" width="40" /></a>
-<a href="https://kaggle.com/lakshman18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshman18" height="30" width="40" /></a>
-<a href="https://instagram.com/typical_dreamer_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typical_dreamer_18" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lakshman_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshman_18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshman18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshman18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/slakshman664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="slakshman664" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@lakshman_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lakshman_s" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/slakshman664/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="slakshman664/profile" height="30" width="40" /></a>
-</p>
+**Code2Cloud** is a production-grade Platform as a Service (PaaS) that replicates Vercel's core deployment engine. It enables developers to link GitHub accounts and automatically deploy full-stack applications (Node.js/Python) via an automated build pipeline.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Core Challenges Solved:**
+* **Automated Orchestration:** Dynamic containerization of user repositories based on language detection.
+* **Build Pipeline:** Custom CI/CD logic to handle dependency installation, build generation, and artifact storage.
+* **Cloud Primitives:** Leveraging AWS to provision isolated execution environments on demand.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshman-99&show_icons=true&locale=en&layout=compact" alt="lakshman-99" /></p>
+## Technical Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshman-99&show_icons=true&locale=en" alt="lakshman-99" /></p>
+| Domain | Technologies |
+|--------|--------------|
+| Languages | Java, Go (Golang), Python, TypeScript, JavaScript (ES6+) |
+| Backend & Systems | Node.js, Spring Boot, FastAPI, Redis, BullMQ, PostgreSQL, MongoDB |
+| Cloud & DevOps | AWS (S3, EC2, ALB), GCP, Kubernetes, Terraform, Docker, Jenkins |
+| Frontend | Next.js, React, Tailwind CSS, Chakra UI |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshman-99&" alt="lakshman-99" /></p>
+---
 
+## Featured Engineering Impact
+
+| Project / Role | Architecture & Impact | Stack |
+|---------------|----------------------|-------|
+| Async Job Engine - Origin AI | Migrated background processing to Redis and BullMQ, achieving 99.9% reliability and unlocking workflows that drove a 20% increase in feature adoption. | Node.js, Redis, AWS |
+| Enterprise Asset Module - Zoho Corporation | Led the redesign of the Asset Module, enabling over 100 custom fields per product type and supporting more than 1,000 enterprise clients. | Java, PostgreSQL, SaaS |
+| NextPath - Graph Algorithm Visualizer | Built a high-performance graph algorithm visualizer and removed render bottlenecks using Zustand, improving performance by 70%. | Next.js, Algorithms |
+| Cloud-Native Upload API | Designed a secure image upload backend handling auto-scaled traffic from 5,000 users with 99.9 percent uptime and fully automated infrastructure using Terraform. | Node.js, AWS, Terraform |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Lakshman-99">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lakshman-99&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Lakshman-99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshman-99&layout=compact&hide_border=true&theme=github_dark" height="150" alt="Top Languages" />
+  </a>
+</div>
