@@ -55,9 +55,9 @@ Previously, I built enterprise SaaS products at **Zoho Corporation**, impacting 
 
 <div align="center">
   <a href="https://github.com/Lakshman-99">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lakshman-99&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lakshman-99&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="150" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Lakshman-99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshman-99&layout=compact&hide_border=true&theme=github_dark" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lakshman-99&layout=compact&hide_border=true&theme=github_dark" height="150" alt="Top Languages" />
   </a>
 </div>
