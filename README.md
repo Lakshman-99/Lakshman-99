@@ -3,19 +3,25 @@
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmansiva/) 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshman.me)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siva.l@northeastern.edu)
-
+  <a href="https://www.linkedin.com/in/lakshmansiva/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://lakshman.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
+  </a>
+  <a href="mailto:siva.l@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+  </a>
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a **Software Engineer** focused on building scalable cloud-native systems and high-performance web architectures. Currently, I am a Master's student at **Northeastern University** and a **Software Engineer Co-op at Origin AI**, where I engineer asynchronous backend systems for reliability and scale.
+I am a **Software Engineer** focused on building scalable cloud-native systems and high-performance web architectures. Currently, I am a Master's student at **Northeastern University**.
 
-Previously, I built enterprise SaaS products at **Zoho Corporation**, impacting over 1,000+ enterprise clients. My engineering philosophy prioritizes **system design, automation, and observability**.
+Most recently, I was a **Software Engineer Co-op at Origin AI**, where I engineered asynchronous backend systems for reliability and scale. Prior to that, I built enterprise SaaS products at **Zoho Corporation**, impacting over 1,000+ enterprise clients.
+
+My engineering philosophy prioritizes **system design, automation, and observability**.
 
 ---
 
